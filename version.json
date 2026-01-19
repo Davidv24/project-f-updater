@@ -1,5 +1,5 @@
 {
-    "version": "0.3.0",
-    "release_notes": "Test Système Mise à jour",
-    "download_url": "https://share.0xcore.fr/s/RCNdws7y"
+    "version": "0.3.1",
+    "release_notes": "Affichage de l'erreur d'analyse dans les sorties si le serveur n'a pas pu traiter une analyse après trois essais.\nOptimisation de l'UX pour le chargement de la liste des dossiers traités.\nBloquer la suppression du dossier si analyse en cours.\nPossibilité d'arrêter une analyse en cours.\nMise à jour du guide d'utilisation.\nPrise en charge des extractions XRY en cours de prise en charge.",
+    "download_url": "https://share.0xcore.fr/s/dg5D12zV"
 }
