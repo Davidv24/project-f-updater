@@ -1,6 +1,6 @@
 {
     "version": "0.3.3",
-    "release_notes": "Autoriser la reprise d'une analyse qui avait été annulé précédemment\nAmélioration de la prise en charge des fichiers issus de XRY\nAmélioration diverses dans les notes pour le Guide d'utilisation et la Config\nCorrection de bugs mineurs sur la génération du fichier HTML\nOptimisation du fichier HTML pour les gros volumes\nModale de mise à jour avec détails des ajouts et déchiffrement du mot de passe de téléchargement",
+    "release_notes": "- Autoriser la reprise d'une analyse qui avait été annulé précédemment.\n- Amélioration de la prise en charge des fichiers issus de XRY.\n- Amélioration diverses dans les notes pour le Guide d'utilisation et la Config.\n- Correction de bugs mineurs sur la génération du fichier HTML.\n- Optimisation du fichier HTML pour les gros volumes.\n- Modale de mise à jour avec détails des ajouts et déchiffrement du mot de passe de téléchargement.",
     "download_url": "https://share.0xcore.fr/s/dg5D12zV",
     "signature": "YyFqMg=="
 }
