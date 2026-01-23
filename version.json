@@ -1,5 +1,6 @@
 {
-    "version": "0.3.1",
-    "release_notes": "Affichage de l'erreur d'analyse dans les sorties si le serveur n'a pas pu traiter une analyse après trois essais.\nOptimisation de l'UX pour le chargement de la liste des dossiers traités.\nBloquer la suppression du dossier si analyse en cours.\nPossibilité d'arrêter une analyse en cours.\nMise à jour du guide d'utilisation.\nPrise en charge des extractions XRY en cours de prise en charge.",
-    "download_url": "https://share.0xcore.fr/s/dg5D12zV"
+    "version": "0.3.2",
+    "release_notes": "Autoriser la reprise d'une analyse qui avait été annulé précédemment.\nAmélioration de la prise en charge des fichiers issus de XRY.\nAmélioration diverses dans les notes pour le Guide d'utilisation et la Config.\nCorrection de bugs mineurs sur la génération du fichier HTML.\nOptimisation du fichier HTML pour les gros volumes.\nModale de mise à jour avec détails des ajouts et déchiffrement du mot de passe de téléchargement.\nRéduction du timeout de requête au modèle de 30min à 10min.\nOptimisation de l'arrêt d'une analyse en cours.\nOptimisation du script pour la génération du fichier EXCEL.",
+    "download_url": "https://share.0xcore.fr/s/cERIRpuw",
+    "signature": "YyFqMg=="
 }
