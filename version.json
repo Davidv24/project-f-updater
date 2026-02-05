@@ -1,6 +1,6 @@
 {
-    "version": "0.3.2",
-    "release_notes": "Autoriser la reprise d'une analyse qui avait été annulé précédemment.\nAmélioration de la prise en charge des fichiers issus de XRY.\nAmélioration diverses dans les notes pour le Guide d'utilisation et la Config.\nCorrection de bugs mineurs sur la génération du fichier HTML.\nOptimisation du fichier HTML pour les gros volumes.\nModale de mise à jour avec détails des ajouts et déchiffrement du mot de passe de téléchargement.\nRéduction du timeout de requête au modèle de 30min à 10min.\nOptimisation de l'arrêt d'une analyse en cours.\nOptimisation du script pour la génération du fichier EXCEL.",
-    "download_url": "https://share.0xcore.fr/s/cERIRpuw",
-    "signature": "YyFqMg=="
+    "version": "0.3.3",
+    "release_notes": "Temps de chargement des fichiers améliorer.\nOptimisation détection Cellebrite / MSAB.\nRetour IA : Si JSON invalide on log le retour.\nOptimisation des requêtes TCP.\nCorrection Bug liste d'attente avec fichier portant le même nom.\nCorrection nom de fichier en cas de reprise d'une analyse précédemment stoppée.\nFichier HTML : Possibilité de classer le scoring par poids.\nPossibilité de récupérer toutes l'analyse en ZIP depuis l'interface.\nPrise en charge des gros fichiers excel (>1Go).\nOptimisation RAM pour les gros fichiers avec la création d'un fichier csv tampon.",
+    "download_url": "https://share.0xcore.fr/s/q8w7zOBg",
+    "signature": "YhN8FVoSHEAZcA=="
 }
