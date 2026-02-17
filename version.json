@@ -1,6 +1,6 @@
 {
     "version": "0.3.4",
-    "release_notes": "- Fichier HTML : ajout du tri par SOURCES.\n- Pop-Up au dépôt du fichier pour créer le nom de dossier d'analyse.\n- Correction de bugs d'affichage mineurs.\n- Affichage du nombre de rejets JSON dans le log en fin d'analyse.\n- Extraction MSAB - Prise en charge langue FR du fichier excel.\n- Optimisation du fichier tampon pour MSAB et CELLEBRITE.\n- Ajout de la fonction Retirer un fichier de la liste d'attente.\n- Meilleure gestion de l'affichage des groupes dans les résultats.",
+    "release_notes": "- Fichier HTML : ajout du tri par SOURCES.\n- Pop-Up au dépôt du fichier pour créer le nom de dossier d'analyse.\n- Correction de bugs d'affichage mineurs.\n- Affichage du nombre de rejets JSON dans le log en fin d'analyse.\n- Extraction MSAB : Prise en charge langue FR du fichier excel.\n- Optimisation du fichier tampon pour MSAB et CELLEBRITE.\n- Ajout de la fonction Retirer un fichier de la liste d'attente.\n- Meilleure gestion de l'affichage des groupes dans les résultats.",
     "download_url": "https://share.0xcore.fr/s/vCL2uKfg",
     "signature": "HQJLNWY5bFR+Eg=="
 }
