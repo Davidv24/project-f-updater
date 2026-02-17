@@ -1,6 +1,6 @@
 {
-    "version": "0.3.3",
-    "release_notes": "Temps de chargement des fichiers améliorer.\nOptimisation détection Cellebrite / MSAB.\nRetour IA : Si JSON invalide on log le retour.\nOptimisation des requêtes TCP.\nCorrection Bug liste d'attente avec fichier portant le même nom.\nCorrection nom de fichier en cas de reprise d'une analyse précédemment stoppée.\nFichier HTML : Possibilité de classer le scoring par poids.\nPossibilité de récupérer toutes l'analyse en ZIP depuis l'interface.\nPrise en charge des gros fichiers excel (>1Go).\nOptimisation RAM pour les gros fichiers avec la création d'un fichier csv tampon.",
-    "download_url": "https://share.0xcore.fr/s/q8w7zOBg",
-    "signature": "YhN8FVoSHEAZcA=="
+    "version": "0.3.4",
+    "release_notes": "- Fichier HTML : ajout du tri par SOURCES.\n- Pop-Up au dépôt du fichier pour créer le nom de dossier d'analyse.\n- Correction de bugs d'affichage mineurs.\n- Affichage du nombre de rejets JSON dans le log en fin d'analyse.\n- Extraction MSAB - Prise en charge langue FR du fichier excel.\n- Optimisation du fichier tampon pour MSAB et CELLEBRITE.\n- Ajout de la fonction Retirer un fichier de la liste d'attente.\n- Meilleure gestion de l'affichage des groupes dans les résultats.",
+    "download_url": "https://share.0xcore.fr/s/vCL2uKfg",
+    "signature": "HQJLNWY5bFR+Eg=="
 }
