@@ -1,6 +1,6 @@
 {
-    "version": "0.3.4",
-    "release_notes": "- Fichier HTML : ajout du tri par SOURCES.\n- Pop-Up au dépôt du fichier pour créer le nom de dossier d'analyse.\n- Correction de bugs d'affichage mineurs.\n- Affichage du nombre de rejets JSON dans le log en fin d'analyse.\n- Extraction MSAB : Prise en charge langue FR du fichier excel.\n- Optimisation du fichier tampon pour MSAB et CELLEBRITE.\n- Ajout de la fonction Retirer un fichier de la liste d'attente.\n- Meilleure gestion de l'affichage des groupes dans les résultats.",
-    "download_url": "https://share.0xcore.fr/s/vCL2uKfg",
-    "signature": "HQJLNWY5bFR+Eg=="
+    "version": "0.4.5",
+    "release_notes": "- Refactorisation complète du code python.\n- Nettoyage du code.\n- MSAB - Correction bug sur le traitement des périodes.\n- Amélioration de l'affichage du flux des analyses en direct.\n- Nouveau Pipeline pour la synthèse multichunk.\n- Indication du traitement de la synthèse multichunk dans les logs.\n- Pour les utilisateurs ayant plusieurs GPU : Multi Thread sur le traitement des conversations.\n- Phase expérimentale - Intégration d'un modèle d'embedding sur CPU.\n- Phase expérimentale - Création d'une base vectorielle pour le Chatbot.\n- Phase expérimentale - Création d'un Chatbot pour approfondir les résultats.\n- Phase expérimentale - Optimisation du Chatbot pour rechercher dans une conversation précise.\n- Mise en forme des réponses du Chatbot.\n- Optimisations diverses de l'interface.\n- Nouveau PIPELINE pour les fichiers MSAB.\n- Optimisation des prompts pour éviter des résumés trop long.",
+    "download_url": "https://share.0xcore.fr/s/KSnr5Mno",
+    "signature": "dFcdDHJVYAdgFA=="
 }
