@@ -1,6 +1,6 @@
 {
-    "version": "0.4.5",
-    "release_notes": "- Refactorisation complète du code python.\n- Nettoyage du code.\n- MSAB - Correction bug sur le traitement des périodes.\n- Amélioration de l'affichage du flux des analyses en direct.\n- Nouveau Pipeline pour la synthèse multichunk.\n- Indication du traitement de la synthèse multichunk dans les logs.\n- Pour les utilisateurs ayant plusieurs GPU : Multi Thread sur le traitement des conversations.\n- Phase expérimentale - Intégration d'un modèle d'embedding sur CPU.\n- Phase expérimentale - Création d'une base vectorielle pour le Chatbot.\n- Phase expérimentale - Création d'un Chatbot pour approfondir les résultats.\n- Phase expérimentale - Optimisation du Chatbot pour rechercher dans une conversation précise.\n- Mise en forme des réponses du Chatbot.\n- Optimisations diverses de l'interface.\n- Nouveau PIPELINE pour les fichiers MSAB.\n- Optimisation des prompts pour éviter des résumés trop long.",
-    "download_url": "https://share.0xcore.fr/s/KSnr5Mno",
-    "signature": "dFcdDHJVYAdgFA=="
+    "version": "0.5.0",
+    "release_notes": "- Restructuration moderne du Frontend (Architecture modulaire Vue 3 / Vite, interface réactive et composants dédiés).\n- Conformité ISO/IEC 27037, traçabilité des rapports.\n- Sécurisation contre les injections DOM / XSS issues des contenus analysés.\n- Résilience IA & Anti-Perte de Preuves.\n- Optimisation de la file d'attente.\n- Amélioration WebSocket.\n- Amélioration de la stabilité du Worker Thread\n- Optimisation RAM.\n- Optimisation des I/O disque.\n- Mutualisation des sessions HTTP.\n- Optimisation ChromaDB (ChatBot RAG).",
+    "download_url": "https://share.0xcore.fr/s/xLkBF3S8",
+    "signature": "HQNdFgUECiZVA1tWFF8="
 }
